@@ -20,4 +20,3 @@ function styleText() {
   let span = document.querySelector("span");
   span.remove();
 }
-styleText();
