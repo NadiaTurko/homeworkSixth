@@ -12,7 +12,6 @@
 // •        5
 // Результат виводу: 1, 5, 2, 4, 3
 
-//1 спосіб
 function listNumber() {
   const items = document.getElementsByTagName("li");
   const firstElement = items[0].innerHTML;
@@ -27,4 +26,3 @@ function listNumber() {
   alert(`Output result : ${fourdtElement}`);
   alert(`Output result : ${fifthElement}`);
 }
-listNumber();
