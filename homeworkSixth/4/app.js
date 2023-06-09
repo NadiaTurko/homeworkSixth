@@ -22,4 +22,3 @@ function myFunction() {
   e-mail: ${emailValue}`;
   });
 }
-myFunction();
